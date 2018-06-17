@@ -2,4 +2,6 @@ print('Hello world;')
 print('Hello world 2')
 print('hello')print('Hello world')
 print('Hello world 2')
-print('hello;')
+
+print('hello my dear friend')
+print('glad to see you;')
